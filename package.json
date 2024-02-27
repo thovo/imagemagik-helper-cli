@@ -1,0 +1,22 @@
+{
+  "name": "imagemagik-helper-cli",
+  "version": "0.0.1",
+  "description": "A helper tool to multiprocessing many images with ImageMagik written with Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thovo/imagemagik-helper-cli.git"
+  },
+  "keywords": [
+    "imagemagik"
+  ],
+  "author": "Raphaël Tuong Tho VO",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thovo/imagemagik-helper-cli/issues"
+  },
+  "homepage": "https://github.com/thovo/imagemagik-helper-cli#readme"
+}
